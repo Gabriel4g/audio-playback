@@ -1,4 +1,4 @@
-## <i> ❤️‍🩹 Cada botão reproduz um audio diferente do programa "Vai dar namoro" ❤️‍🩹
+## <i> Cada botão reproduz um audio diferente do programa "Vai dar namoro" ❤️‍🩹
 
 <hr/>
 
