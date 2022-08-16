@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+img {
+    max-width: 95%;
+}
+
+button {
+    border: none;
+    background: none;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(https://i0.wp.com/sitectv.com/wp-content/uploads/2022/03/vai-dar-namoro.jpg?fit=1920%2C1280&ssl=1);
+    background-position: center;
+    background-repeat: repeat;
+    background-color: rgba(0, 0, 0, 0.6);
+	background-blend-mode: color;
+    background-size: cover;
+}
+
+.faro-img {
+    height: 20rem;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+main {
+    width: 100%;
+    margin: 20px auto 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-self: center;
+    gap: 2.5rem;
+    max-width: 600px;
+}
+
+.img-music {
+    height: 10rem;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+@media (max-width: 500px) {
+    .faro-img {
+        margin-top: 50px;
+        width: 300px;
+    }
+
+    body {
+        height: 100%;
+    }
+}
